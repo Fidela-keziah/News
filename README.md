@@ -35,8 +35,7 @@
 
 ## Contact Information
 
-{feel free to contact me via E-mail: irafidelagmail.com in case you need any support or contribution.}
-
+ Contact me via E-mail: irafidelagmail.com for any querry or contributions.
 ### License
 
 * MIT license,Copyright (c),2021 , Fidela-Keziah
