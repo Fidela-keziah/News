@@ -20,9 +20,6 @@ The News API (Links to an external site.) provides a wonderful API that will all
 * Python
 * Flask
 * Heroku
-
-## Technology Used
-
 * Python 3.6
 
 ## BDD
