@@ -1,6 +1,6 @@
 # News_API
 
-#### application that is used to list and preview news articles from various sources. {29 March 2021}
+#### application that is used to list and preview news articles from various sources. 29 March 2021}
 #### By **{ Fidela-Keziah}**
 
 ## Description
