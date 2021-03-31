@@ -5,7 +5,7 @@
 
 ## Description
 
-The News API (Links to an external site.) provides a wonderful API that will allow you to complete your task. Read the documentation in order to fully access the features of the API, learn how to use it and know how to implement features that are required for your project. }
+The News API (Links to an external site.) provides a wonderful API that will allow you to complete your task. Read the documentation in order to fully access the features of the API, learn how to use it and know how to implement features that are required for your project. 
 
 ## Cloning
 
