@@ -17,10 +17,9 @@ The News API (Links to an external site.) provides a wonderful API that will all
 
 ## Application Used
 
-* Python
+* Python3.6
 * Flask
 * Heroku
-* Python 3.6
 
 ## BDD
 
