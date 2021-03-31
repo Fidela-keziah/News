@@ -13,7 +13,7 @@
 * Open Terminal
 * Google Chrome
 * internet
-* [git clone]()
+* [git clone](https://github.com/Fidela-keziah/News.git)
 
 ## Application Used
 
